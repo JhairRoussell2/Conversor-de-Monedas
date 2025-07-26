@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 50px;">💰 **Conversor de Moneda** 💰</h1>
+<h1 align="center" style="font-size: 50px;">💰 Conversor de Moneda 💰</h1>
 
 <p align="center">
   <img src="./paraREADME/1.jpg" alt="Logo del Conversor de Moneda">
@@ -7,14 +7,14 @@
 ---
 
 ## 📌 **Índice**
-1. [**Descripción del Proyecto**](#descripción-del-proyecto)
-2. [**Estado del Proyecto**](#estado-del-proyecto)
-3. [**Características del Proyecto**](#características-del-proyecto)
-4. [**Tecnologías Utilizadas**](#tecnologías-utilizadas)
-5. [**Acceso al Proyecto**](#acceso-al-proyecto)
-6. [**Instrucciones para Ejecutar**](#instrucciones-para-ejecutar)
-7. [**Personas Desarrolladoras del Proyecto**](#personas-desarrolladoras-del-proyecto)
-8. [**Licencia**](#licencia)
+1. [Descripción del Proyecto](#-descripción-del-proyecto)
+2. [Estado del Proyecto](#-estado-del-proyecto)
+3. [Características del Proyecto](#-características-del-proyecto)
+4. [Tecnologías Utilizadas](#-tecnologías-utilizadas)
+5. [Acceso al Proyecto](#-acceso-al-proyecto)
+6. [Instrucciones para Ejecutar](#-instrucciones-para-ejecutar)
+7. [Personas Desarrolladoras del Proyecto](#-personas-desarrolladoras-del-proyecto)
+8. [Licencia](#-licencia)
 
 ---
 
@@ -86,7 +86,7 @@ El proyecto está hecho en **Java**, utilizando la biblioteca **Gson** para mane
 ## 📁 **Acceso al Proyecto**
 
 1. **Clonar el Repositorio**:
-   - `git clone https://github.com/tu_usuario/conversor-moneda.git`
+   - `git clone https://github.com/JhairRoussell2/conversor-moneda.git`
    
 2. **Abrir en IntelliJ IDEA**:
    - Abre el proyecto en **IntelliJ IDEA**.
