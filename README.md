@@ -35,7 +35,7 @@ El proyecto está hecho en **Java**, utilizando la biblioteca **Gson** para mane
 ## 🚀 **Estado del Proyecto**
 
 <h4 align="center">
-🎉🚀 **Proyecto Completado** 🚀🎉
+🎉🚀 Proyecto Completado 🚀🎉
 </h4>
 
 ---
