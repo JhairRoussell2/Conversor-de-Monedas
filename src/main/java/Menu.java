@@ -11,7 +11,7 @@ public class Menu {
                 5) Dólar => Peso colombiano
                 6) Peso colombiano => Dólar
                 7) Dólar => Sol Peruano
-                8) Sol Peruano => Dólar 
+                8) Sol Peruano => Dólar
                 9) Salir
                 **************************************************
                 """);
