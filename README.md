@@ -7,14 +7,14 @@
 ---
 
 ## 📌 **Índice**
-1. [📖 **Descripción del Proyecto**](#descripción-del-proyecto)
-2. [🚀 **Estado del Proyecto**](#estado-del-proyecto)
-3. [🔧 **Características del Proyecto**](#características-del-proyecto)
-4. [💻 **Tecnologías Utilizadas**](#tecnologías-utilizadas)
-5. [📁 **Acceso al Proyecto**](#acceso-al-proyecto)
-6. [🛠️ **Instrucciones para Ejecutar**](#instrucciones-para-ejecutar)
-7. [🧑‍💻 **Personas Desarrolladoras del Proyecto**](#personas-desarrolladoras-del-proyecto)
-8. [📜 **Licencia**](#licencia)
+1. [**Descripción del Proyecto**](#descripción-del-proyecto)
+2. [**Estado del Proyecto**](#estado-del-proyecto)
+3. [**Características del Proyecto**](#características-del-proyecto)
+4. [**Tecnologías Utilizadas**](#tecnologías-utilizadas)
+5. [**Acceso al Proyecto**](#acceso-al-proyecto)
+6. [**Instrucciones para Ejecutar**](#instrucciones-para-ejecutar)
+7. [**Personas Desarrolladoras del Proyecto**](#personas-desarrolladoras-del-proyecto)
+8. [**Licencia**](#licencia)
 
 ---
 
