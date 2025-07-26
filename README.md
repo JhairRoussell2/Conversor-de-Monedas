@@ -116,7 +116,6 @@ El proyecto está hecho en **Java**, utilizando la biblioteca **Gson** para mane
 
 | [<img src="https://avatars.githubusercontent.com/u/181286163?v=4" width=115><br><sub>Jhair Roussell Melendez Blas</sub>](https://github.com/JhairRoussell2) |
 | :---: |
-| **Jhair Roussell Melendez Blas** - Desarrollador principal |
 
 ---
 
